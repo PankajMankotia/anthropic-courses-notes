@@ -1,8 +1,6 @@
 <notes>
 <critical>
 Below are notes from a video course about working with the Claude language model.
-Use these notes as a resource to answer the user's question.
-Write your answer as a standalone response - do not refer directly to these notes unless specifically requested by the user.
 </critical>
 <note title="What is a Coding Assistant?">
 Coding Assistant = tool that uses language models to write code and complete development tasks
